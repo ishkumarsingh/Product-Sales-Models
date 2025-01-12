@@ -27,7 +27,7 @@ Tooltips
 👉 You will be able to build Dashboard like below :-
 
 
-<img src="https://github.com/ishkumarsingh/Product-Sales-Models/blob/main/Screenshot%202025-01-12%20162951.png" alt="Image Description" width="300">
+<img src="https://github.com/ishkumarsingh/Product-Sales-Models/blob/main/Screenshot%202025-01-12%20162951.png" alt="Image Description" width="900">
 
 
 
