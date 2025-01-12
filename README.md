@@ -18,3 +18,15 @@ Tooltips
  AI Visuals  By Find Anomalies
  Mobile Layout Vs Desktop Layout
  Publish Reports 
+
+
+
+Files related Interactive Dashboard in Power BI
+
+👉 You will be able to build Dashboard like below
+
+
+
+<img src="https://github.com/ishkumarsingh/Product-Sales-Models/blob/main/Screenshot%202025-01-12%20162951.png" alt="Image Description" width="300">
+
+\
