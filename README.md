@@ -1,4 +1,7 @@
 # Product-Sales-Models
+Files related Interactive Dashboard in Power BI
+👉 You will be able to build Dashboard like below By using below preactice files in Power BI
+
 
 Filtering & Top N & Pages+
 Matrix Visuals
@@ -19,14 +22,16 @@ Tooltips
  Mobile Layout Vs Desktop Layout
  Publish Reports 
 
+ Files related Interactive Dashboard in Power BI
 
-
-Files related Interactive Dashboard in Power BI
-
-👉 You will be able to build Dashboard like below
-
+👉 You will be able to build Dashboard like below :-
 
 
 <img src="https://github.com/ishkumarsingh/Product-Sales-Models/blob/main/Screenshot%202025-01-12%20162951.png" alt="Image Description" width="300">
 
-\
+
+
+
+
+
+
